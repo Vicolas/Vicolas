@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victory Agbonighale</h1>
 <h3 align="center">I enjoy analyzing blockchain data.</h3>
 
-- 🔭 I’m currently working on **Automating data collection.**
+- 🔭 **I’m currently working on Automating data collection.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
