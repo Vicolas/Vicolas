@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Victory Agbonighale</h1>
 <h3 align="center">I enjoy analyzing blockchain data.</h3>
 
-- 🔭 **I’m currently working on Automating data collection.**
+- 🔭 I’m currently working on **Automating data collection.**
+
+- 📫 How to reach me **agbonighalevictory@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/victory agbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victory agbonighale" height="30" width="40" /></a>
-<a href="https://kaggle.com/victory agbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victory agbonighale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/victory-agbonighale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victory-agbonighale/" height="30" width="40" /></a>
+<a href="https://kaggle.com/kaggle.com/victoryagbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/victoryagbonighale" height="30" width="40" /></a>
+<a href="https://medium.com/@victoryagbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victoryagbonighale" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
