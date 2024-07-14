@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victory Agbonighale Odianosen</h1>
-<h3 align="center">I enjoy analyzing blockchain data.</h3>
+<h3 align="center">I enjoy analyzing data and training models.</h3>
 
 - 🔭 I’m currently working on **Automating data collection.**
 
