@@ -10,17 +10,17 @@ Currently building in public after years of heads-down client delivery across fi
 
 ## What I do
 
-- **Business Intelligence** — Production-grade dashboards on Apache Superset covering revenue intelligence, trade analytics, and operational KPIs
+- **Business Intelligence** — Production-grade dashboards on Amazon QuickSight, Apache Superset covering revenue intelligence, trade analytics, and operational KPIs
 - **Data Architecture** — End-to-end data pipeline design, data dictionaries, and system assessment for enterprise and government clients
 - **AI & Analytics Engineering** — RAG-based knowledge platforms, ML feature engineering, predictive risk models on AWS
-- **Cloud Data on AWS** — Amazon Connect, S3, RDS, Rekognition, SageMaker, Amplify — delivered in real client environments, not just sandboxes
+- **Cloud Data on AWS** — Amazon Connect, S3, RDS, Rekognition, SageMaker, Amplify — delivered in client environment
 
 ---
 
 ## Stack
 
 ```
-SQL · Python · Apache Superset · AWS (Connect · S3 · RDS · SageMaker · Rekognition · Amplify)
+SQL · Python · Amazon Quicksight · Apache Superset · AWS (Connect · S3 · RDS · SageMaker · Rekognition · Amplify)
 dbt · PostgreSQL · Synthetic Data Generation · Data Documentation
 ```
 
