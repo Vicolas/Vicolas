@@ -4,7 +4,7 @@
 
 I design and deliver data systems that help enterprises and government institutions make better decisions — from analytical dashboards and data architectures to AI-powered knowledge platforms on AWS.
 
-Currently building in public after years of heads-down client delivery across financial services, government revenue, trade finance, and aviation logistics in West Africa.
+Currently building in public after years of heads-down client delivery across financial services, government revenue, trade finance, and aviation logistics globally.
 
 ---
 
