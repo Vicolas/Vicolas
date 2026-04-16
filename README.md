@@ -1,16 +1,60 @@
-<h1 align="center">Hi 👋, I'm Victory Agbonighale Odianosen</h1>
-<h3 align="center">I enjoy analyzing data and training models.</h3>
+# Victory Agbonighale Odianosen
 
-- 🔭 I’m currently working on **Automating data collection.**
+**Data Strategist · BI Engineer · Cloud Data Practitioner**
 
-- 📫 How to reach me **agbonighalevictory@gmail.com**
+I design and deliver data systems that help enterprises and government institutions make better decisions — from analytical dashboards and data architectures to AI-powered knowledge platforms on AWS.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victory-agbonighale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victory-agbonighale/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle.com/victoryagbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/victoryagbonighale" height="30" width="40" /></a>
-<a href="https://medium.com/@victoryagbonighale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@victoryagbonighale" height="30" width="40" /></a>
-</p>
+Currently building in public after years of heads-down client delivery across financial services, government revenue, trade finance, and aviation logistics in West Africa.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## What I do
+
+- **Business Intelligence** — Production-grade dashboards on Apache Superset covering revenue intelligence, trade analytics, and operational KPIs
+- **Data Architecture** — End-to-end data pipeline design, data dictionaries, and system assessment for enterprise and government clients
+- **AI & Analytics Engineering** — RAG-based knowledge platforms, ML feature engineering, predictive risk models on AWS
+- **Cloud Data on AWS** — Amazon Connect, S3, RDS, Rekognition, SageMaker, Amplify — delivered in real client environments, not just sandboxes
+
+---
+
+## Stack
+
+```
+SQL · Python · Apache Superset · AWS (Connect · S3 · RDS · SageMaker · Rekognition · Amplify)
+dbt · PostgreSQL · Synthetic Data Generation · Data Documentation
+```
+
+---
+
+## Certifications
+
+- AWS Certified Solutions Architect – Associate (SAA-C03)
+- AWS Certified AI Practitioner
+- AWS Certified Machine Learning Engineer – Associate *(in progress)*
+
+---
+
+## Featured Projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Nigeria Revenue Intelligence Dashboard](#) | BI delivery · synthetic dataset · Superset | Python · SQL · Superset |
+| [Trade Finance Analytics POC](#) | Data modeling · executive dashboard design | Python · PostgreSQL · Superset |
+| [AWS Data Architecture Patterns](#) | Cloud solution design · documentation | AWS · Excalidraw · Markdown |
+| [Superset Starter Kit](#) | Self-hosted BI setup · reproducible environment | Docker · Superset |
+
+*Links populate as repos go live — check back weekly.*
+
+---
+
+## Currently
+
+- Building this portfolio in public (April 2026)
+- Preparing for AWS ML Engineer Associate certification
+- Writing about data implementation for African enterprises
+
+---
+
+## Let's connect
+
+[LinkedIn](https://linkedin.com/in/victory-agbonighale) · [Medium](https://medium.com/@victoryagbonighale) · [Email](mailto:agbonighalevictory@gmail.com)
